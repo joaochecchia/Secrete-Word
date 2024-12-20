@@ -1,0 +1,8 @@
+.container{
+    margin-bottom: 80px;
+}
+
+.container span{
+    font: bold;
+    color: #ecfa00;
+}

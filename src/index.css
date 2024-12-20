@@ -1,0 +1,30 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  font-family: "Poppins", serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(180deg, #808080 0%, rgba(23, 22, 49, 0.8) 100%);
+}
+
+button {
+  background: linear-gradient(180deg, #808080 0%, rgba(62, 62, 79, 0.8) 100%); /* Gradiente inicial */
+  color: black;
+  padding: 0 45px;
+  border: 2px solid black;
+  border-radius: 25px;
+  height: 50px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.2em;
+  cursor: pointer;
+  transition: 0.4s;
+}
+
+button:hover {
+  background: #808080; /* Cor cinza quando o mouse passa por cima */
+}
+ /* Gradiente aplicado corretamente */
+

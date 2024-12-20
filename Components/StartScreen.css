@@ -1,0 +1,11 @@
+.container{
+    margin-top: 80px;
+}
+
+.container h1{
+   font-size: 3.5em;
+}
+
+.container p{
+    margin-bottom: 2em;
+}
